@@ -9,5 +9,5 @@
 [Ссылка на прототип проекта в p5 editor](https://editor.p5js.org/Makssim/sketches/ZmkG7ezGK)
 ### Figma
 [Ссылка на макет сайта в Figma](https://www.figma.com/file/g8WkHbII8uKlY21UQ189BK/Final-project-prototype?type=design&node-id=0%3A1&mode=design&t=YW32XZf47dtGkCcb-1)
-### Ссылка на проект 
-добавить ссылку на итоговый проект
+### Дополнительные ссылки
+[Ссылка на лонгрид о проекте](http://patternpixelstudio.tilda.ws/)
